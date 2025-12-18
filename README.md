@@ -2,7 +2,7 @@
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-The DriverPass project was for a client called DriverPass. They wanted an online system that helps people get ready for divers test. The system meant to let the customer schedule driving lessons, take online practice test, and to make sure it tracked their progress.
+The DriverPass project was for a client called DriverPass. They wanted an online system that helps people get ready for divers test. The system was meant to let the customer schedule driving lessons, take online practice test, and to make sure it tracked their progress.
 The system also needed different roles such as students, teachers, and admins. 
 
 What did you do particularly well?
