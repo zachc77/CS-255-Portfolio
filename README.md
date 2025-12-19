@@ -7,7 +7,7 @@ The system also needed different roles such as students, teachers, and admins.
 
 What did you do particularly well?
 
-
+I think I did a good job of realizing the clinets needs and turing it into clear requirements. I made sure I focused on what the client actually wanted.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
