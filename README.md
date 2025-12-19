@@ -21,5 +21,5 @@ I interpreted the users needs by reading through the interview and paying attent
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-I foucus on planning and understanding the system before doing any code or anything. I first review the client requirements and figure out what the system needs to do from the users point of view 
+I focus on planning and understanding the system before doing any code or anything. I first review the client requirements and figure out what the system needs to do from the users point of view 
 
